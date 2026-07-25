@@ -12,7 +12,7 @@ A website for electronic music lovers to discover and explore deep crates of vin
 
 ## Tech Stack
 
-- **Frontend**: Built with Lovable
+- **Frontend**: React 18 + Vite (plain JavaScript, hand-written CSS)
 - **Hosting**: GitHub Pages / Vercel / Netlify
 - **CI/CD**: GitHub Actions
 
